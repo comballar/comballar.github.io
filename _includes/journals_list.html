@@ -1,48 +1,48 @@
-{% if site.posts %}
+{% if site.journals %}
   <ul class="rows">
     <li class="row__cols">
       <div class="row__title">
-        {% if site.post_title %}
-          {{ site.post_title }}
+        {% if site.journal_title %}
+          {{ site.journal_title }}
         {% else %}
           Title
         {% endif %}
       </div>
       <div class="row__date">
-        {% if site.post_date %}
-          {{ site.post_date }}
+        {% if site.journal_date %}
+          {{ site.journal_date }}
         {% else %}
           Date
         {% endif %}
       </div>
       <div class="row__cat">
-        {% if site.post_cat %}
-          {{ site.post_cat }}
+        {% if site.journal_cat %}
+          {{ site.journal_cat }}
         {% else %}
           Category
         {% endif %}
       </div>
     </li>
-    {% for post in site.posts %}
+    {% for entry in site.journals %}
       <li class="row__post">
-        <a href="{{ site.url }}{{ post.url | relative_url }}">
-          <div class="row__title {% if include.uid == post.id %}row__active{% endif %}">
+        <a href="{{ site.url }}{{ entry.url | relative_url }}">
+          <div class="row__title {% if include.uid == entry.id %}row__active{% endif %}">
             {{ post.title }}
           </div>
-          <div class="row__date {% if include.uid == post.id %}row__active{% endif %}">
+          <div class="row__date {% if include.uid == entry.id %}row__active{% endif %}">
             {% if site.date_format %}
-              {{ post.date | date: site.date_format }}
+              {{ entry.date | date: site.date_format }}
             {% else %}
-              {{ post.date | date: "%b %-d, %Y" }}
+              {{ entry.date | date: "%b %-d, %Y" }}
             {% endif %}
           </div>
-          <div class="row__cat {% if include.uid == post.id %}row__active{% endif %}">
-            {{ post.category }}
+          <div class="row__cat {% if include.uid == entry.id %}row__active{% endif %}">
+            {{ entry.category }}
           </div>
         </a>
 
-        {% if post.img %}
-          <img class="row__img" src="{{ post.img }}" alt="{{ post.title }}">
+        {% if entry.img %}
+          <img class="row__img" src="{{ entry.img }}" alt="{{ entry.title }}">
         {% endif %}
       </li>
     {% endfor %}
