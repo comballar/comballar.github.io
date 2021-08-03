@@ -13,6 +13,16 @@ desc: >
 # posts
 date_format: "%Y"
 
+collections:
+  journals:
+    output: true
+    permalink: /:collection/:title
+    
+# journals
+journal_title: Entry
+journal_date: Year
+journal_cat: Tag
+
 # build settings
 markdown: kramdown
 #theme: fry
