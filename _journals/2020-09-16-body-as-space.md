@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: entry
 title:  Body as Space
 author: Phoemela Ballaran
 category: List
