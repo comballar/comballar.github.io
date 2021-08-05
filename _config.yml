@@ -19,7 +19,7 @@ collections:
 # journals
 journal_title: Entry
 journal_date: Year
-journal_cat: Tag
+journal_cat: Category
 
 # build settings
 markdown: kramdown
