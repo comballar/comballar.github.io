@@ -60,6 +60,7 @@ hr {
 a {
   color: $color__black;
   text-decoration: underline;
+  font-display: block;
 
   &:visited {
     color: $color__black;
