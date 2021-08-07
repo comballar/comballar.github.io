@@ -10,12 +10,8 @@ $font__line-height: 2;
 
 @font-face {
     font-family: 'Cardinal Fruit';
-    src: url('https://comoballar.github.io/assets/fonts/CardinalFruit-MediumItalic.eot');
-    src: url('https://comoballar.github.io/assets/fonts/CardinalFruit-MediumItalic.eot?#iefix') format('embedded-opentype'),
-        url('https://comoballar.github.io/assets/fonts/CardinalFruit-MediumItalic.woff2') format('woff2'),
-        url('https://comoballar.github.io/assets/fonts/CardinalFruit-MediumItalic.woff') format('woff'),
-        url('https://comoballar.github.io/assets/fonts/CardinalFruit-MediumItalic.ttf') format('truetype'),
-        url('CardinalFruit-MediumItalic.svg#CardinalFruit-MediumItalic') format('svg');
+    src: url('https://comoballar.github.io/assets/fonts/CardinalFruit-MediumItalic.woff2') format('woff2'),
+        url('https://comoballar.github.io/assets/fonts/CardinalFruit-MediumItalic.woff') format('woff');
     font-weight: 500;
     font-style: italic;
     font-display: block;
