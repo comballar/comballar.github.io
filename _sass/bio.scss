@@ -26,9 +26,6 @@
 }
 
 .bio__social {
-  margin: 0;
-  margin-top: 10px;
-  padding: 0;
   list-style: none;
   color: $color__black;
   font-family: $opensans;
@@ -38,17 +35,11 @@
     text-decoration: none;
     font-display: block;
     display: inline;
-    margin: 0;
-    margin-top: 10px;
-    padding: 0;
     
     &:hover {
       text-decoration: none;
       font-style: italic;
       display: inline;
-      margin: 0;
-      margin-top: 10px;
-      padding: 0;
     }
   }
 }
