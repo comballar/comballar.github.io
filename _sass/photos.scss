@@ -28,9 +28,13 @@
   div {
     display: table-cell;
     line-height: 150px;
-    font-weight: 700;
+    font-weight: 400;
     font-size: 150px;
     vertical-align: middle;
+    font-display: block;
+    font-family: 'Cardinal Fruit';
+    font-style: italic;
+    font-color: $color__black;
   }
 }
 
