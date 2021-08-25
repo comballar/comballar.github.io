@@ -6,5 +6,5 @@ photos:
   soulsday2015: https://raw.githubusercontent.com/comoballar/gallerydb/main/sameplace/sameplace02.jpg
   summer2014-01: https://raw.githubusercontent.com/comoballar/gallerydb/main/sameplace/sameplace03.jpg
   alsosummer2014: https://raw.githubusercontent.com/comoballar/gallerydb/main/sameplace/sameplace04.jpg
-  anothersummer2014: https://raw.githubusercontent.com/comoballar/gallerydb/main/sameplace/sameplace015.jpg
+  anothersummer2014: https://raw.githubusercontent.com/comoballar/gallerydb/main/sameplace/sameplace05.jpg
 ---
