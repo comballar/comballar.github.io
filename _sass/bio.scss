@@ -50,10 +50,16 @@
 .social__link {
   overflow: hidden;
   display: inline;
+  margin: 0;
+  margin-top: 10px;
+  padding: 0;
 }  
 
 // behaviors
 .social__active {
   font-style: italic;
   display: inline;
+  margin: 0;
+  margin-top: 10px;
+  padding: 0;
 }
