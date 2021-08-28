@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Silence of the Summer Afternoon
+title: Summer Afternoon
 photos:
   summer01: https://raw.githubusercontent.com/comoballar/gallerydb/main/summer/summer01.jpg
   summer02: https://raw.githubusercontent.com/comoballar/gallerydb/main/summer/summer02.jpg
