@@ -4,17 +4,10 @@
 	  {{ site.header }}
 	</a>
   </div>
-  <div class="bio__desc">{{ site.desc }}</div>
   {% if site.data.social %}
     <ul class="bio__social">
       {% for item in site.data.social %}
-        <li class="social__link">
-		<a href="{{ item.url}}">
-			<div class="social {% if include.uid == item.url %}social__active{% endif %}" href="{{ item.url }}" target="_self">
-				{{ item.title }}
-			</div>
-		</a>
-	</li>
+        <li><a href="{{ item.url }}" target="_self">{{ item.title }}</a></li>
       {% endfor %}
     </ul>
   {% endif %}
