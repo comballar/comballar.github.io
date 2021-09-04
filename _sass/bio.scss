@@ -30,6 +30,16 @@
   padding: 0;
   list-style: none;
   text-decoration: none;
+  
+  a {
+    text-decoration: none;
+    font-display: block;
+
+  	&:hover {
+  		text-decoration: none;
+      font-display: block;
+  	}
+  }
 }
 
 // behaviors
