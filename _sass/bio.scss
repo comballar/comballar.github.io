@@ -13,10 +13,12 @@
   font-color: $color__black;
 
   a {
-  	text-decoration: none;
+    text-decoration: none;
+    font-display: block;
 
   	&:hover {
   		text-decoration: none;
+      font-display: block;
   	}
   }
 }
@@ -43,4 +45,5 @@
   margin: 0;
   margin-top: 10px;
   padding: 0;
+  text-decoration: none;
 }
