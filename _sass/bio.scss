@@ -53,6 +53,10 @@
     text-decoration: none;
     font-display: block;
   }
+  
+  span {
+    border: 1px solid transparent;
+  }
 }
 
 .social__active {
@@ -66,5 +70,9 @@
   a {
     text-decoration: none;
     font-display: block;
+  }
+  
+  span {
+    border: 1px solid transparent;
   }
 }
