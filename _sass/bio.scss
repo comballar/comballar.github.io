@@ -36,7 +36,11 @@
 
 .social__notactive {
   list-style: none;
-  text-decoration: none;
+  
+  a {
+    text-decoration: none;
+    font-display: block;
+  }
 }
 
 .social__active {
@@ -45,5 +49,9 @@
   margin: 0;
   margin-top: 10px;
   padding: 0;
-  text-decoration: none;
+  
+  a {
+    text-decoration: none;
+    font-display: block;
+  }
 }
