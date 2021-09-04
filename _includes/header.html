@@ -9,7 +9,7 @@
       {% for item in site.data.social %}
 	    <li>
 		<a href="{{ item.url}}">
-			<div class="social {% if include.uid == item.url %}social__active{% endif %}" href="{{ item.url }}" target="_self">
+			<div class="social__notactive {% if include.uid == item.url %}social__active{% endif %}" href="{{ item.url }}" target="_self">
  				{{ item.title }}
 			</div>
 		</a>
