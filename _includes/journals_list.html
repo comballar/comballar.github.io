@@ -23,7 +23,7 @@
         {% endif %}
       </div>
     </li>
-    {% for entry in site.journals %}
+    {% for entry in site.journals reversed%}
       <li class="row__post">
         <a href="{{ site.url }}{{ entry.url | relative_url }}">
           <div class="row__title {% if include.uid == entry.id %}row__active{% endif %}">
