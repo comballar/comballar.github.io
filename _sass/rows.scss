@@ -95,25 +95,33 @@
     &:nth-child(2n) .row__img {
       top: 0;
       left: 0;
-      vertical-align: middle;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
     }
 
     &:nth-child(3n) .row__img {
       top: 0;
       left: 0;
-      vertical-align: middle;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
     }
 
     &:nth-child(4n) .row__img {
       top: 0;
       left: 0;
-      vertical-align: middle;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
     }
 
     &:nth-child(5n) .row__img {
       top: 0;
       left: 0;
-      vertical-align: middle;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
     }
   }
 }
