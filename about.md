@@ -4,7 +4,8 @@ title:  Hello there
 permalink: /about/
 ---
 <h1>“Does it dance? Does it catalyze a joyful affirmation of life?” — Friedrich Nietzsche</h1>
-<br><p style="text-align:center;"><img  src="https://comoballar.github.io/assets/images/selfportrait.jpg"/></p>
+<br>
+<p align="center"><img class=small src="https://comoballar.github.io/assets/images/selfportrait.jpg"/></p>
 <figcaption>Thanks to my mother for capturing this portrait of my vibrant and untroubled self.</figcaption>
 <br>
 <p>Hi, I’m Phoemela Ballaran and this is my home on the web where I share things that are important to me with whoever’s willing to visit.
