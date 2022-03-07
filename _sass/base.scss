@@ -87,14 +87,6 @@ a {
   }
 }
 
-p {
-    color: $color__black;
-}
-
-li {
-    color: $color__black;
-}
-
 // layout
 html {
   overflow-x: hidden;
@@ -104,7 +96,6 @@ html {
 figcaption {
     font-size: 13px;
     text-align: center;
-    font-style: italic;
     color: $color__black;
 }
 
