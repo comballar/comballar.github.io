@@ -43,6 +43,7 @@
 .row__date,
 .row__cat {
   float: left;
+  color: $color__black;
 }
 
 .row__title {
@@ -81,10 +82,12 @@
       * {
         text-style: italic;
         cursor: pointer;
+        color: $color__black;
       }
 
       .row__active {
         text-decoration: line-through;
+        color: $color__black;
       }
 
       .row__img {
