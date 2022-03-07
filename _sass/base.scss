@@ -53,7 +53,7 @@ h1 {
   font-size: 50px;
   font-weight: 500;
   line-height: 1.25;
-  font-color: $color__black;
+  color: $color__black;
 
 }
 
@@ -85,6 +85,10 @@ a {
     font-style: italic;
     text-decoration: none;
   }
+}
+
+p {
+    color: $color__black;
 }
 
 // layout
