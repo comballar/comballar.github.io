@@ -91,6 +91,10 @@ p {
     color: $color__black;
 }
 
+li {
+    color: $color__black;
+}
+
 // layout
 html {
   overflow-x: hidden;
@@ -101,6 +105,7 @@ figcaption {
     font-size: 13px;
     text-align: center;
     font-style: italic;
+    color: $color__black;
 }
 
 body {
@@ -113,7 +118,7 @@ body {
   font-size: $font__size;
   font-weight: $font__weight;
   line-height: $font__line-height;
-  font-color: $color__black;
+  color: $color__black;
 }
 
 .container {
