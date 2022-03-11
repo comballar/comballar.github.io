@@ -4,7 +4,7 @@ title:  Body as Space
 author: Phoemela Ballaran
 category: List
 date: 2020-09-16
-img: https://raw.githubusercontent.com/comoballar/postdb/main/the-therapist.jpg
+img: https://github.com/comoballar/postdb/blob/main/bolingen-tower.png
 ---
 <br><br>
 <ol>
