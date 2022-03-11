@@ -1,6 +1,6 @@
 ---
 layout: entry
-title:  Even I Surprise Myself Sometimes
+title:  Sometimes I Surprise Myself
 author: Phoemela Ballaran
 category: List
 date: 2022-03-11
