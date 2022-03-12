@@ -2,24 +2,26 @@
 layout: entry
 title:  Sometimes I Surprise Myself
 author: Phoemela Ballaran
-category: List
+category: Personal
 date: 2022-03-11
 img: https://raw.githubusercontent.com/comoballar/postdb/main/journal02/time.jpeg
 ---
-<br><br>
+<br>
 Sometimes, when there's an unusual synergy between my heart and brain, words come out of me and I surprise myself.
+<br>
 <ol>
-  <li><i>Twitter | 3 Dec 2021:</i> What devotion is for me: Isis scouring and gathering the 14 pieces of Osiris' cut up body that are scattered over the Earth, then performing a great act of magic—with the help of Nepthys, Thoth, and Anubis—to bring her husband back to life.
+  <li>What devotion is for me: Isis scouring and gathering the 14 pieces of Osiris' cut up body that are scattered over the Earth, then performing a great act of magic—with the help of Nepthys, Thoth, and Anubis—to bring her husband back to life.
     <br><br>
     I think this is why my love language is words of affirmation. What we speak of, how often we say them, how we say them—all are elements of spellcasting. The great act of magic is speaking life into your beloved.</li>
   <br>
-  <li><i>Twitter | 2 Dec 2021:</i> How I feel sometimes: filled with stars and arching over the world.</li>
+  <li>How I feel sometimes: filled with stars and arching over the world.</li>
   <br>
-  <li><i>Twitter | 13 Nov 2021:</i> I want to carefully remove my heart from my body. Wash it clean. Make it brand new. It housed many strangers who weren't nice house guests.</li>
+  <li>I want to carefully remove my heart from my body. Wash it clean. Make it brand new. It housed many strangers who weren't nice house guests.</li>
   <br>
   <li>I have a hunch that the quality of my experience of other people depends on the quality of my perception. My admiration of someone's essence might actually be a radar for an aspect of my self that I'm oblivious of or a compass guiding me to a new self that I'm desiring to meet.</li>
   <br>
   <li>I descended from a long line of sea and farm folks and the thought that the soul, after its release from the flesh, leaves a bit of itself in places where it has experienced love fills me with solace. That they never really left but only transformed: the land they tilled, now the shoulders I stand on; the ocean they scoured, new limbs to embrace me with.</li>
-  Still surprised at how love can just grow over the years. It’s like everything succumbs to entropy except for love. Chaos is unable to hurl it into nothingness.
-  
-  We’re usually asked what lights our fire (our passion) but fire has the potential to ravage everything on its path when left untended. Instead of sparking us up to motivate us to move, the fire consumes us to the point of feeling spent. So I think it’s also worth asking: how do you tend your fire?
+  <br>
+  <li>Still surprised at how love can just grow over the years. It’s like everything succumbs to entropy except for love. Chaos is unable to hurl it into nothingness.</li>
+  <br>
+  <li>We’re usually asked what lights our fire but fire has the potential to ravage everything on its path when left untended. Instead of sparking us up to motivate us to move, the fire consumes us to the point of feeling spent. So I think it’s also worth asking: how do you tend your fire?</li>
