@@ -72,6 +72,11 @@ $paginate-padding: 13px;
     background: $color__black;
     font-size: 12px;
   }
+  
+  img {
+    max-width: 75%;
+    border: 1px solid $color__black;
+  }
 }
 
 .post__home {
@@ -99,18 +104,4 @@ $paginate-padding: 13px;
     min-width: 500px;
     width: 60%;
   }
-}
-
-.landimg {
-  max-height: 5%;
-  border: 5px solid $color__black;
-  display: block;
-  object-fit: contain;
-}
-
-.v-img {
-  max-width: 65%;
-  border: 1px solid $color__black;
-  display: block;
-  object-fit: contain;
 }
