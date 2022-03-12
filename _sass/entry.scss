@@ -75,16 +75,7 @@ $paginate-padding: 13px;
 
   img {
     border: 1px solid $color__black;
-    
-    
-    &:landscape {
-    max-width: 90%;
-    }
-    
-    &:portrait {
-    max-width: 60%;
-    }
-  }
+    max-width: 80%;
 }
 
 .post__home {
