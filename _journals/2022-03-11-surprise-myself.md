@@ -26,7 +26,7 @@ Sometimes, when there's an unusual synergy between my heart and brain, words com
   <br>
   <li>A hunch: the quality of my experience of other people depends on the quality of my perception. My admiration of someone's essence might actually be a radar for an aspect of my self that I'm oblivious of or a compass guiding me to a new self that I'm desiring to meet.</li>
   <br>
-  <li>I descended from a long line of sea and farm folks and the thought that the soul, after its release from the flesh, leaves a bit of itself in places where it has experienced love fills me with solace. That they never really left but only transformed: the land they tilled, now the shoulders I stand on; the ocean they scoured, new limbs to embrace me with.</li>
+  <li>I descended from a long line of sea and farm folks and the thought that the soul, after its release from the flesh, leaves a bit of itself in places where it has experienced love fills me with solace. That my ancestors never really left but only transformed: the land they tilled, now the shoulders I stand on; the ocean they scoured, new limbs to embrace me with.</li>
   <br>
   <li>We’re usually asked what lights our fire but fire has the potential to ravage everything on its path when left untended. Instead of sparking us up to motivate us to move, the fire consumes us to the point of feeling spent. So I think it’s also worth asking: how do you tend your fire?</li>
   <br>
