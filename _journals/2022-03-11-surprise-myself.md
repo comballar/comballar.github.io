@@ -12,7 +12,7 @@ Sometimes, when there's an unusual synergy between my heart and brain, words com
 <ol>
   <li>What devotion is for me: Isis scouring and gathering the 14 pieces of Osiris' cut up body that are scattered over the Earth, then —with the help of Nepthys, Thoth, and Anubis—performing a great act of magic to bring her husband back to life.
     <br>
-    <p align="center"><img class="portrait" src="https://raw.githubusercontent.com/comoballar/postdb/main/journal03/isis.jpeg"/><figcaption>Isis and Osiris</figcaption></p>
+    <p align="center"><img src="https://raw.githubusercontent.com/comoballar/postdb/main/journal03/isis.jpeg" class="portrait"/><figcaption>Isis and Osiris</figcaption></p>
     <br>
     I think this is why my love language is words of affirmation. What we speak of, how often we say them, how we say them—all are elements of spellcasting. The great act of magic is speaking life into your beloved.</li>
   <br>
