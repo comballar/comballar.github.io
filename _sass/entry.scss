@@ -74,9 +74,16 @@ $paginate-padding: 13px;
   }
 
   img {
-    max-width: 60%;
     border: 1px solid $color__black;
-    color: $color__black;
+    
+    &:vertical {
+      max-width: 60%;
+    }
+    
+    &:horizontal {
+      max-width: 90%;
+    }
+    
   }
 }
 
