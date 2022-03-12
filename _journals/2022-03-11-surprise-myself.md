@@ -12,7 +12,7 @@ Sometimes, when there's an unusual synergy between my heart and brain, words com
 <ol>
   <li>What devotion is for me: Isis scouring and gathering the 14 pieces of Osiris' cut up body that are scattered over the Earth, then —with the help of Nepthys, Thoth, and Anubis—performing a great act of magic to bring her husband back to life.
     <br>
-    <p align="center"><img src=https://raw.githubusercontent.com/comoballar/postdb/main/journal03/isis.jpeg/>
+    <p align="center"><img src="https://raw.githubusercontent.com/comoballar/postdb/main/journal03/isis.jpeg"/>
       <figcaption>Isis and Osiris</figcaption>
     </p>
     <br>
