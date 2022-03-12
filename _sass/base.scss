@@ -117,16 +117,6 @@ body {
   margin: 0 25px;
 }
 
-.portrait-img {
-  border: 1px solid $color__black;
-  max-width: 60%;
-  }
-  
-.portrait-img {
-  border: 1px solid $color__black;
-  max-width: 90%;
-  }
-
 // media queries
 @include media-query($on-palm) {
   body {
