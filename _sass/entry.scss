@@ -72,6 +72,18 @@ $paginate-padding: 13px;
     background: $color__black;
     font-size: 12px;
   }
+  
+  img {
+    border: 1px solid $color__black;  
+    
+    .portrait-img {
+      max-width: 65%;
+    }
+    
+    .landscape-img {
+      max_width: 85%;
+    }
+  }
 
 }
 
@@ -100,14 +112,4 @@ $paginate-padding: 13px;
     min-width: 500px;
     width: 60%;
   }
-}
-
-.portrait-img {
-    max-width: 65%;
-    border: 1px solid $color__black;
-}
-
-.landscape-img {
-    max_width: 85%;
-    border: 1px solid $color__black;
 }
