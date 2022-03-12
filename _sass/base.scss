@@ -117,14 +117,6 @@ body {
   margin: 0 25px;
 }
 
-.portrait-img {
-    max-width: 65%;
-}
-
-.landscape-img {
-    max_width: 80%;
-}
-
 // media queries
 @include media-query($on-palm) {
   body {
