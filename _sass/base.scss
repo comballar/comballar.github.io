@@ -117,15 +117,17 @@ body {
   margin: 0 25px;
 }
 
-.portrait-img {
-    max-width: 65%;
-    border: 1px solid $color__black;
-}
-
-.landscape-img {
-    max_width: 85%;
-    border: 1px solid $color__black;
-}
+img {
+    border: 1px solid $color__black;  
+    
+    .portrait-img {
+      max-width: 65%;
+    }
+    
+    .landscape-img {
+      max_width: 85%;
+    }
+  }
 
 // media queries
 @include media-query($on-palm) {
