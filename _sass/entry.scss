@@ -78,11 +78,11 @@ $paginate-padding: 13px;
     margin: 30px 0 20px;
   }
   
-  img:vertical {
+  img.landscape {
     max-width: 60%;
   }
   
-  img:horizontal {
+  img.portrait {
     max-width: 90%;
   }
 }
