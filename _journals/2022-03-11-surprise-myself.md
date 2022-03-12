@@ -18,11 +18,11 @@ Sometimes, when there's an unusual synergy between my heart and brain, words com
   <br>
   <li>How I feel sometimes: filled with stars and arching over the world.</li>
   <br>
-  <p align="center"><img src="https://raw.githubusercontent.com/comoballar/postdb/main/journal03/nut.jpeg" class="portrait-img"/><figcaption>Sky goddess Nut</figcaption></p>
+  <p align="center"><img src="https://raw.githubusercontent.com/comoballar/postdb/main/journal03/nut.jpeg" class="landscape-img"/><figcaption>Sky goddess Nut</figcaption></p>
   <br>
   <li>I want to carefully remove my heart from my body. Wash it clean. Make it brand new. It housed many strangers who weren't nice house guests.</li>
   <br>
-  <p align="center"><img src="https://raw.githubusercontent.com/comoballar/postdb/main/journal03/amorsolo.jpeg" class="portrait-img"/><figcaption>"Bathing by the River" (1939) by Fernando Amorsolo</figcaption></p>
+  <p align="center"><img src="https://raw.githubusercontent.com/comoballar/postdb/main/journal03/amorsolo.jpeg" class="landscape-img"/><figcaption>"Bathing by the River" (1939) by Fernando Amorsolo</figcaption></p>
   <br>
   <li>A hunch: the quality of my experience of other people depends on the quality of my perception. My admiration of someone's essence might actually be a radar for an aspect of my self that I'm oblivious of or a compass guiding me to a new self that I'm desiring to meet.</li>
   <br>
