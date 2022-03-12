@@ -87,6 +87,18 @@ a {
   }
 }
 
+img {
+    border: 1px solid $color__black;
+
+    &:landscape {
+        max-width: 90%;
+    }
+    
+    &:portrait {
+        max-width: 60%;
+    }
+}
+
 // layout
 html {
   overflow-x: hidden;
