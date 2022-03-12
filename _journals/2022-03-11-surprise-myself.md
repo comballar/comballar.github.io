@@ -4,7 +4,7 @@ title:  Sometimes I Surprise Myself
 author: Phoemela Ballaran
 category: Personal
 date: 2022-03-11
-img: https://raw.githubusercontent.com/comoballar/postdb/main/journal02/time.jpeg
+img: https://raw.githubusercontent.com/comoballar/postdb/main/journal03/amorsolo.jpeg
 ---
 <br>
 Sometimes, when there's an unusual synergy between my heart and brain, words come out of me and I surprise myself.
@@ -36,3 +36,5 @@ Sometimes, when there's an unusual synergy between my heart and brain, words com
   <li>I'm still surprised at how love can just grow over the years. It’s like everything succumbs to entropy except for love. Chaos is unable to hurl it into nothingness.</li>
   <br>
   <p align="center"><img src="https://raw.githubusercontent.com/comoballar/postdb/main/journal03/love.png"/><figcaption>Source unknown</figcaption></p>
+<br><br>
+  <p>⚘ Updated on March 2022</p>
