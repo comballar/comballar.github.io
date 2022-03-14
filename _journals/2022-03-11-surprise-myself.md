@@ -10,7 +10,7 @@ img: https://raw.githubusercontent.com/comoballar/postdb/main/journal03/amorsolo
 Sometimes, when there's an unusual synergy between my heart and brain, words come out of me and I surprise myself.
 <br><br>
 <ol>
-  <li>What devotion is for me: Isis searching for and gathering the 14 pieces of Osiris' cut up body that are scattered over the Earth, then—with the help of Nepthys, Thoth, and Anubis—performing a great act of magic to bring her husband back to life.
+  <li>What devotion is for me: when Isis searched for and gathered the 14 pieces of Osiris' cut up body that Seth scattered over the Earth, and then—with the help of Nepthys, Thoth, and Anubis—performed a great act of magic to bring her husband back to life.
     <br>
     <p align="center"><img src="https://raw.githubusercontent.com/comoballar/postdb/main/journal03/isis.jpeg"/><figcaption>Isis and Osiris</figcaption></p>
     I think my fascination with this story explains why my love language is words of affirmation. What we speak of, how often we say them, how we say them—all are elements of spellcasting. The great act of magic is speaking life into our beloved.</li>
