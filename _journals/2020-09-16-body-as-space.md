@@ -2,7 +2,7 @@
 layout: entry
 title:  Body as Space
 author: Phoemela Ballaran
-category: Theme
+category: Commonplace
 date: 2020-09-16
 img: https://raw.githubusercontent.com/comoballar/postdb/main/the-therapist.jpg
 ---
