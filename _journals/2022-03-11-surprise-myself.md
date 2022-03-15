@@ -29,7 +29,7 @@ Sometimes, when there's an unusual synergy between my heart and brain, words com
   <li>I descended from a long line of sea and farm folks and the thought that the soul, after its release from the flesh, leaves a bit of itself in places where it has experienced love fills me with solace. That my ancestors never really left but only transformed: the land they tilled, now the shoulders I stand on; the ocean they scoured, new limbs to embrace me with.</li>
   <br>
   <p align="center"><img src="https://raw.githubusercontent.com/comoballar/postdb/main/journal03/land.jpg"/><figcaption>Mayon Volcano in Bicol, my parents' home province</figcaption></p>
-  <li>We’re usually asked what lights our fire but fire has the potential to ravage everything on its path when left untended. Instead of sparking up our motivation to act, the fire consumes us to the point of feeling spent. So I think it’s also worth asking: how do you tend your fire?</li>
+  <li>We’re usually asked what lights our fire but fire has the potential to ravage everything on its path when left untended. Instead of sparking up our desire to act, the fire consumes us to the point of feeling spent. So I think it’s also worth asking: how do you tend your fire?</li>
   <br>
   <p align="center"><img src="https://raw.githubusercontent.com/comoballar/postdb/main/journal03/fire.jpeg"/><figcaption>Source unknown</figcaption></p>
   <br>
