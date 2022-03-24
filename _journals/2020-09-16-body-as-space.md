@@ -12,14 +12,14 @@ img: https://raw.githubusercontent.com/comoballar/postdb/main/the-therapist.jpg
   <li>Rachel Cusk on the parallel between the body and the spaces we nest in, from her essay “Making Home”: “Like the body itself, a home is something both looked at and lived in, a duality that in neither case I have managed to reconcile. I retain the belief that other people’s homes are real where mine is a fabrication, just as I imagine others to live inner lives less flawed than my own.”</li><br>
   <li>When Franz Kafka said, “I am a cage, in search of a bird.” Like a hollow body, in search of a soul.</li><br>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/comoballar/postdb/main/the-therapist.jpg"/>
+    <img src="https://raw.githubusercontent.com/comoballar/postdb/main/journal01/therapist.png"/>
     <figcaption>“The Therapist” (1937) by Rene Magritte</figcaption>
   </p><br>
   <li>As within, so without.<br><br>
     Carl Jung’s Bollingen Tower was built in 1923. The idea of it was conceived after noticing a feeling of dissatisfaction despite all the writings he produced and talks he delivered. He felt that he had “to make a confession of faith in stone”. To Jung, the tower represented the maternal hearth.<br><br>
     Four years after the first tower was built, he felt again a sense of incompleteness and decided to add a what would be the central structure. Another four years and a second tower was built. There he occupied a room where he kept to himself and allowed nobody to enter without his permission. He filled the walls of this room with his paintings—his tool of expression for things that cannot be put to words, of things that exist outside of time.<br><br>
     <p align="center">
-      <img src="https://raw.githubusercontent.com/comoballar/postdb/main/bolingen-tower.png"/>
+      <img src="https://raw.githubusercontent.com/comoballar/postdb/main/journal01/bolingen.png"/>
       <figcaption>Carl Jung’s tower at Bollingen, a village in Switzerland.</figcaption>
     </p><br>
     Again, after four years, Jung was restless and desired for an open space so he added a courtyard. In the span of 12 years, the changes that the Bollingen Tower underwent paralleled Jung’s morphing internal landscape.<br><br>
