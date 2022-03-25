@@ -12,8 +12,6 @@ permalink: /about/
   Just like everyone, I like reading <a href="https://literal.club/comoballaar" target="_blank">books</a> and listening to <a href="https://radio4000.com/comoballar" target="_blank">music</a>.
   Feel free to flip through my photo album and journal while I get you some lemonade. I’ll be right back.</p>
 <br>OTHER PLACES 
-<br>⚘ <a href="https://instagram.com/comoballar" target="_blank">Instagram</a>
-<br>⚘ <a href="https://twitter.com/comoballar" target="_blank">Twitter</a>
 <br>⚘ <a href="https://are.na/como-ballar" target="_blank">Are.na</a>
 <br>⚘ <a href="https://letterboxd.com/comoballar/" target="_blank">Letterboxd</a>
 <br>⚘ <a href="https://literal.club/comoballaar" target="_blank">Literal.club</a>
