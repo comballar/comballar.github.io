@@ -4,7 +4,7 @@ title:  Body as Space
 author: Phoemela Ballaran
 category: Commonplace
 date: 2020-09-16
-img: https://raw.githubusercontent.com/comoballar/postdb/main/the-therapist.jpg
+img: https://raw.githubusercontent.com/comoballar/postdb/main/journal01/therapist.png
 ---
 <br><br>
 <ol>
