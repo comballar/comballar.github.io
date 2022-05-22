@@ -14,10 +14,9 @@ permalink: /about/
 <br>OTHER PLACES 
 <br>⚘ <a href="https://are.na/como-ballar" target="_blank">Are.na</a>
 <br>⚘ <a href="https://letterboxd.com/comoballar/" target="_blank">Letterboxd</a>
-<br>⚘ <a href="https://literal.club/comoballaar" target="_blank">Literal.club</a>
-<br>⚘ <a href="https://comoballar.tumblr.com/" target="_blank">Commonplace Book</a>
-<br>⚘ <a href="https://phoemelaballaran.github.io/" target="_blank">Work blog</a>
+<br>⚘ <a href="https://comoballar.tumblr.com/" target="_blank">Tumblr</a>
+<br>⚘ <a href="https://phoemelaballaran.github.io/" target="_blank">Data & Design Blog</a>
 <br>
-<br>Do you want to <a href = "mailto:phoemelaballaran@gmail.com">say hi</a>?
+<br>✺ Send me your lovely thoughts through phoemelaballaran@gmail.com
 <br>
 <br>
