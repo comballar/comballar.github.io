@@ -15,6 +15,7 @@ permalink: /about/
 <br>⚘ <a href="https://are.na/phoemela-ballaran" target="_blank">Are.na</a>
 <br>⚘ <a href="https://letterboxd.com/comoballar/" target="_blank">Letterboxd</a>
 <br>⚘ <a href="https://comoballar.tumblr.com/" target="_blank">Tumblr</a>
+<br>⚘ <a href="https://www.notion.so/1d51ade7a5d94e84acfd4359798bfec8?v=5cd4173b73214dd1bbd6be2ef20c58e8">Notes on Books I Read</a>
 <br>⚘ <a href="https://phoemelaballaran.github.io/" target="_blank">Data & Design Blog</a>
 <br>
 <br>✺ Send me your lovely thoughts through phoemelaballaran@gmail.com
