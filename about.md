@@ -16,7 +16,6 @@ permalink: /about/
 <br>⚘ <a href="https://letterboxd.com/comoballar/" target="_blank">Letterboxd</a>
 <br>⚘ <a href="https://comoballar.tumblr.com/" target="_blank">Tumblr</a>
 <br>⚘ <a href="https://oku.club/user/phoemela">Oku.club</a>
-<br>⚘ <a href="https://phoemelaballaran.github.io/" target="_blank">Data & Design Blog</a>
 <br>
 <br>✺ Send me your lovely thoughts through phoemelaballaran@gmail.com
 <br>
