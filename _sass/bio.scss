@@ -4,13 +4,12 @@
 }
 
 .bio__header {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   font-display: block;
-  font-family: $robotomono;
+  font-family: 'Cardinal Fruit';
   font-style: normal;
   font-weight: 400;
   font-color: $color__black;
-  text-transform: uppercase;
   text-decoration: none;
 
   a {
@@ -18,7 +17,7 @@
     font-display: block;
     
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
       font-display: block;
   	}
   }
