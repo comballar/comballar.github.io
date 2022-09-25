@@ -6,9 +6,9 @@
 .bio__header {
   margin-bottom: 20px;
   font-display: block;
-  font-family: 'Cardinal Fruit';
-  font-style: italic;
-  font-size: 50px;
+  font-family: $robotomono;
+  font-style: normal;
+  font-size: 200px;
   font-weight: 400;
   font-color: $color__black;
   text-decoration: none;
@@ -18,7 +18,7 @@
     font-display: block;
     
     &:hover {
-      text-decoration: none;
+      text-decoration: italic;
       font-display: block;
   	}
   }
