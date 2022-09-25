@@ -76,11 +76,11 @@ $paginate-padding: 13px;
   img {
     border: 1px solid $color__black;
     
-    &:horizontal {
+    .horizontal {
       max-width: 100%;
   	}
     
-    &:vertical {
+    .vertical {
       max-width: 75%;
   	}
     
