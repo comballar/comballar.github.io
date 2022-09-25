@@ -9,15 +9,20 @@ $font__weight:      400;
 $font__line-height: 1.5;
 
 @font-face {
-    font-family: 'Cardinal Fruit';
-    src: url('https://comoballar.github.io/assets/fonts/CardinalFruit-MediumItalic_1.eot');
-    src: url('https://comoballar.github.io/assets/fonts/CardinalFruit-MediumItalic_1.eot?#iefix') format('embedded-opentype'),
-        url('https://comoballar.github.io/assets/fonts/CardinalFruit-MediumItalic_1.woff2') format('woff2'),
-        url('https://comoballar.github.io/assets/fonts/CardinalFruit-MediumItalic_1.woff') format('woff'),
-        url('https://comoballar.github.io/assets/fonts/CardinalFruit-MediumItalic_1.ttf') format('truetype'),
-        url('https://comoballar.github.io/assets/fonts/CardinalFruit-MediumItalic_1.svg#CardinalFruit-MediumItalic') format('svg');
-    font-weight: 500;
+    font-family: 'Apple Garamond';
+    src: url('https://comoballar.github.io/assets/fonts/Apple Garamond/AppleGaramond-Italic.woff2') format('woff2'),
+        url('https://comoballar.github.io/assets/fonts/Apple Garamond/AppleGaramond-Italic.woff') format('woff'),
+        url('https://comoballar.github.io/assets/fonts/Apple Garamond/AppleGaramond-Italic.ttf') format('truetype');
     font-style: italic;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Apple Garamond';
+    src: url('https://comoballar.github.io/assets/fonts/Apple Garamond/AppleGaramond.woff2') format('woff2'),
+        url('https://comoballar.github.io/assets/fonts/Apple Garamond/AppleGaramond.woff') format('woff'),
+        url('https://comoballar.github.io/assets/fonts/Apple Garamond/AppleGaramond.ttf') format('truetype');
+    font-style: normal;
     font-display: block;
 }
 
@@ -48,10 +53,9 @@ $color__yellow:     #F3F3F3;
 
 h1 {
   font-display: block;
-  font-family: 'Cardinal Fruit';
-  font-style: italic;
+  font-family: 'Apple Garamond';
+  font-style: normal;
   font-size: 50px;
-  font-weight: 500;
   line-height: 1.25;
   color: $color__black;
 
