@@ -11,19 +11,19 @@ img: https://raw.githubusercontent.com/comoballar/postdb/main/journal01/01.png
 <br>
 In most Austronesian shamanistic traditions, the body is believed to be inhabited by numerous souls: a main one (<i>body soul</i>), which is responsible for body functions; and another one that is free to roam around (<i>free soul</i> or <i>wandering soul</i>). Growing up, I often encountered stories describing the soul as an essence that leaves the body in death. Both of these beliefs posit the body as a shell that is occupied—then later on abandoned—and must be attended to just like our living spaces.
 <br><br>
-<p align="center"><img src="https://raw.githubusercontent.com/comoballar/postdb/main/journal01/01.png"/><figcaption>By José Manuel Rodrigues</figcaption></p>
+<p align="center"><img src="https://raw.githubusercontent.com/comoballar/postdb/main/journal01/01.png"/><figcaption>By José Manuel Rodrigues.</figcaption></p>
 <br><br><br>
 <p align="center">--- 02 ---</p>
 <br>
 Rachel Cusk on the parallel between the body and the spaces we nest in, from her essay “Making Home”: “Like the body itself, a home is something both looked at and lived in, a duality that in neither case I have managed to reconcile. I retain the belief that other people’s homes are real where mine is a fabrication, just as I imagine others to live inner lives less flawed than my own.”
 <br><br>
-<p align="center"><img src="https://raw.githubusercontent.com/comoballar/postdb/main/journal01/02.png"/><figcaption>From "Meshes of the Afternoon" (1943)</figcaption></p>
+<p align="center"><img src="https://raw.githubusercontent.com/comoballar/postdb/main/journal01/02.png"/><figcaption>From "Meshes of the Afternoon". (1943)</figcaption></p>
 <br><br><br>
 <p align="center">--- 03 ---</p>
 <br>
 When Franz Kafka said, “I am a cage, in search of a bird.” Like a hollow body, in search of a soul
 <br><br>
-<p align="center"><img class="vertical" src="https://raw.githubusercontent.com/comoballar/postdb/main/journal01/03.png"/><figcaption>“The Therapist” (1937) by Rene Magritte</figcaption></p>
+<p align="center"><img class="vertical" src="https://raw.githubusercontent.com/comoballar/postdb/main/journal01/03.png"/><figcaption>“The Therapist” (1937) by Rene Magritte.</figcaption></p>
 <br><br><br>
 <p align="center">--- 04 ---</p>
 <br>
