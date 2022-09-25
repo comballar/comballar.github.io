@@ -2,19 +2,19 @@ $on-palm:           600px !default;
 $on-laptop:         800px !default;
 
 // typography
-@import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700');
-$inconsolata:       'Inconsolata', monospace;
-$font__size:        18px;
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:400,600');
+$robotomono:       'Roboto Mono', monospace;
+$font__size:        16px;
 $font__weight:      400;
-$font__line-height: 1.5;
+$font__line-height: 2;
 
 @font-face {
-    font-family: 'Cardinal Fruit';
-    src: url('https://comoballar.github.io/assets/fonts/CardinalFruit-MediumItalic.woff2') format('woff2'),
-        url('https://comoballar.github.io/assets/fonts/CardinalFruit-MediumItalic_1.woff') format('woff'),
-        url('https://comoballar.github.io/assets/fonts/CardinalFruit-MediumItalic.ttf') format('truetype');
-    font-style: italic;
-    font-display: block;
+    font-family: 'Apple Garamond';
+    src: url('https://phoemelaballaran.github.io/assets/webfont/AppleGaramond.woff2') format('woff2'),
+        url('https://phoemelaballaran.github.io/assets/webfont/AppleGaramond.woff') format('woff'),
+        url('https://phoemelaballaran.github.io/assets/webfont/AppleGaramond.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
 
 // colors
@@ -43,13 +43,12 @@ $color__yellow:     #F3F3F3;
 }
 
 h1 {
-  font-display: block;
-  font-family: 'Cardinal Fruit';
-  font-style: italic;
+  font-family: 'Apple Garamond';
   font-size: 50px;
-  line-height: 1.25;
+  font-weight: normal;
+  line-height: 1;
   color: $color__black;
-
+  font-display: block;
 }
 
 hr {
@@ -101,7 +100,7 @@ body {
   padding: 0;
   font-display: block;
   background: $color__beige;
-  font-family: $inconsolata;
+  font-family: $robotomono;
   font-size: $font__size;
   font-weight: $font__weight;
   line-height: $font__line-height;
