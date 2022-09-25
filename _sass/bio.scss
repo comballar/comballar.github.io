@@ -10,6 +10,7 @@
   font-style: normal;
   font-weight: 400;
   font-color: $color__black;
+  text-transform: uppercase;
   text-decoration: none;
 
   a {
@@ -17,7 +18,7 @@
     font-display: block;
     
     &:hover {
-      text-decoration: italic;
+      text-decoration: underline;
       font-display: block;
   	}
   }
