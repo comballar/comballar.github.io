@@ -31,10 +31,10 @@ Sometimes, when there's an unusual synergy between my heart and brain, words com
   <p align="center"><img src="https://raw.githubusercontent.com/comoballar/postdb/main/journal03/mayon.png"/><figcaption>Mayon Volcano in Bicol, my parents' home province</figcaption></p>
   <li>We’re usually asked what lights our fire but fire has the potential to ravage everything on its path when left untended. Instead of sparking up our desire to act, the fire consumes us to the point of feeling spent. So I think it’s also worth asking: how do you tend your fire?</li>
   <br>
-  <p align="center"><img class="vertical" src="https://raw.githubusercontent.com/comoballar/postdb/main/journal03/fire.png"/><figcaption>Source unknown</figcaption></p>
+  <p align="center"><img src="https://raw.githubusercontent.com/comoballar/postdb/main/journal03/fire.png"/><figcaption>Source unknown</figcaption></p>
   <br>
   <li>I'm still surprised at how love can just grow over the years. It’s as if everything succumbs to entropy except for love. Chaos is unable to hurl it into nothingness.</li>
   <br>
-  <p align="center"><img class="vertical" src="https://raw.githubusercontent.com/comoballar/postdb/main/journal03/love.png"/><figcaption>Source unknown</figcaption></p>
+  <p align="center"><img src="https://raw.githubusercontent.com/comoballar/postdb/main/journal03/love.png"/><figcaption>Source unknown</figcaption></p>
 <br><br>
   <p>⚘ Updated on March 2022</p>
