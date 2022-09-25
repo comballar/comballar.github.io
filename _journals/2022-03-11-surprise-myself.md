@@ -44,7 +44,7 @@ I descended from a long line of sea and farm folks and the thought that the soul
 <br>
 We’re usually asked what lights our fire but fire has the potential to ravage everything on its path when left untended. Instead of sparking up our desire to act, the fire consumes us to the point of feeling spent. So I think it’s also worth asking: how do you tend your fire?
 <br><br>
-<p align="center"><img src="https://raw.githubusercontent.com/comoballar/postdb/main/journal02/fire.png"/><figcaption>Source unknown</figcaption></p>
+<p align="center"><img src="https://raw.githubusercontent.com/comoballar/postdb/main/journal02/fire.png"/><figcaption>From Kilo's song on Bandcamp, "Potential"</figcaption></p>
 <br><br><br>
 <p align="center">--- 07 ---</p>
 <br>
