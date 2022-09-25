@@ -9,12 +9,11 @@ $font__weight:      400;
 $font__line-height: 2;
 
 @font-face {
-    font-family: 'Apple Garamond';
-    src: url('https://phoemelaballaran.github.io/assets/webfont/Garamond/AppleGaramond.woff2') format('woff2'),
-        url('https://phoemelaballaran.github.io/assets/webfont/Garamond/AppleGaramond.woff') format('woff'),
-        url('https://phoemelaballaran.github.io/assets/webfont/Garamond/AppleGaramond.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
+    font-family: 'Cardinal Fruit';
+    src: url('https://phoemelaballaran.github.io/assets/webfont/CardinalFruit-MediumItalic.woff2') format('woff2'),
+        url('https://phoemelaballaran.github.io/assets/webfont/CardinalFruit-MediumItalic.woff') format('woff'),
+        url('https://phoemelaballaran.github.io/assets/webfont/CardinalFruit-MediumItalic.ttf') format('truetype');
+    font-style: italic;
 }
 
 // colors
@@ -43,7 +42,7 @@ $color__yellow:     #F3F3F3;
 }
 
 h1 {
-  font-family: 'Apple Garamond';
+  font-family: 'Cardinal Fruit';
   font-size: 50px;
   font-weight: normal;
   line-height: 1;
