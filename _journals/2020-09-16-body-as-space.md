@@ -43,7 +43,7 @@ Another case of outward projection of the inner landscape: In her novel “The F
 <p align="center">--- 06 ---</p>
 <br>
 Saint Paul wrote, as if in lament: “Do you not know that your bodies are temples of the Holy Spirit, who is in you, who you have received from God?” There is no need to search outside of myself, I can meet my god in the cathedral of my own flesh.
-<br>
+<br><br>
 <p align="center"><img src="https://raw.githubusercontent.com/comoballar/postdb/main/journal01/06.png"/><figcaption>Photo collage I made back in 2017.</figcaption></p>
 <br><br><br>
 <p>⚘ Updated on September 2021</p>
