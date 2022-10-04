@@ -7,7 +7,7 @@ date: 2020-09-16
 img: https://raw.githubusercontent.com/comoballar/postdb/main/journal01/01.png
 ---
 <br><br>
-<p align="center">--- 01 ---</p>
+<p align="center">─•~❉ 01 ❉~•─</p>
 <br>
 In most Austronesian shamanistic traditions, the body is believed to be inhabited by numerous souls: a main one (<i>body soul</i>), which is responsible for body functions; and another one that is free to roam around (<i>free soul</i> or <i>wandering soul</i>). Growing up, I often encountered stories describing the soul as an essence that leaves the body in death. Both of these beliefs posit the body as a shell that is occupied—then later on abandoned—and must be attended to just like our living spaces.
 <br><br>
