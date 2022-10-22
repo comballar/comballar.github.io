@@ -9,12 +9,11 @@ permalink: /about/
 <figcaption>A portrait of my vibrant and untroubled self.</figcaption>
 <br>
 <p>Hi, I’m Phoemela Ballaran and this is my home on the web where I share things that are important to me with whoever’s willing to visit.
-  Just like everyone, I like reading <a href="https://bit.ly/3Qqlu7b" target="_blank">books</a> and listening to <a href="https://radio4000.com/comoballar" target="_blank">music</a>.
+  Just like everyone, I like reading <a href="https://oku.club/user/phoemela" target="_blank">books</a> and listening to <a href="https://radio4000.com/comoballar" target="_blank">music</a>.
   Feel free to flip through my photo album and journal while I get you some lemonade. I’ll be right back.</p>
 <br>OTHER PLACES 
 <br>✺ <a href="https://are.na/phoemela-ballaran" target="_blank">Are.na</a>
 <br>✺ <a href="https://letterboxd.com/comoballar/" target="_blank">Letterboxd</a>
 <br>✺ <a href="https://comoballar.tumblr.com/" target="_blank">Tumblr</a>
-<br>✺ <a href="https://oku.club/user/phoemela">Oku.club</a>
 <br>
 <br>
