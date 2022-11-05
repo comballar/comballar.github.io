@@ -21,6 +21,9 @@ journal_title: Entry
 journal_date: Year
 journal_cat: Category
 
+# journal detail
+prev-next: true
+
 # build settings
 markdown: kramdown
 #theme: fry
