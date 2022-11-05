@@ -1,21 +1,21 @@
 {% if site.journals %}
-  <ul class="footer">
-    <li class="footer__cols">
-      <div class="footer__title">
+  <ul class="rows">
+    <li class="row__cols">
+      <div class="row__title">
         {% if site.journal_title %}
           {{ site.journal_title }}
         {% else %}
           Title
         {% endif %}
       </div>
-      <div class="footer__date">
+      <div class="row__date">
         {% if site.journal_date %}
           {{ site.journal_date }}
         {% else %}
           Date
         {% endif %}
       </div>
-      <div class="footer__cat">
+      <div class="row__cat">
         {% if site.journal_cat %}
           {{ site.journal_cat }}
         {% else %}
@@ -24,22 +24,26 @@
       </div>
     </li>
     {% for entry in site.journals reversed%}
-      <li class="footer__post">
+      <li class="row__post">
         <a href="{{ site.url }}{{ entry.url | relative_url }}">
-          <div class="footer__title {% if include.uid == entry.id %}footer__active{% endif %}">
+          <div class="row__title {% if include.uid == entry.id %}row__active{% endif %}">
             {{ entry.title }}
           </div>
-          <div class="footer__date {% if include.uid == entry.id %}footer__active{% endif %}">
+          <div class="row__date {% if include.uid == entry.id %}row__active{% endif %}">
             {% if site.date_format %}
               {{ entry.date | date: site.date_format }}
             {% else %}
               {{ entry.date | date: "%b %-d, %Y" }}
             {% endif %}
           </div>
-          <div class="footer__cat {% if include.uid == entry.id %}footer__active{% endif %}">
+          <div class="row__cat {% if include.uid == entry.id %}row__active{% endif %}">
             {{ entry.category }}
           </div>
         </a>
+
+        {% if entry.img %}
+          <img class="row__img" src="{{ entry.img }}" alt="{{ entry.title }}">
+        {% endif %}
       </li>
     {% endfor %}
   </ul>
