@@ -1,0 +1,50 @@
+{% if site.journals %}
+  <ul class="footer">
+    <li class="footer__cols">
+      <div class="footer__title">
+        {% if site.journal_title %}
+          {{ site.journal_title }}
+        {% else %}
+          Title
+        {% endif %}
+      </div>
+      <div class="footer__date">
+        {% if site.journal_date %}
+          {{ site.journal_date }}
+        {% else %}
+          Date
+        {% endif %}
+      </div>
+      <div class="footer__cat">
+        {% if site.journal_cat %}
+          {{ site.journal_cat }}
+        {% else %}
+          Category
+        {% endif %}
+      </div>
+    </li>
+    {% for entry in site.journals reversed%}
+      <li class="footer__post">
+        <a href="{{ site.url }}{{ entry.url | relative_url }}">
+          <div class="footer__title {% if include.uid == entry.id %}footer__active{% endif %}">
+            {{ entry.title }}
+          </div>
+          <div class="footer__date {% if include.uid == entry.id %}footer__active{% endif %}">
+            {% if site.date_format %}
+              {{ entry.date | date: site.date_format }}
+            {% else %}
+              {{ entry.date | date: "%b %-d, %Y" }}
+            {% endif %}
+          </div>
+          <div class="footer__cat {% if include.uid == entry.id %}footer__active{% endif %}">
+            {{ entry.category }}
+          </div>
+        </a>
+
+        {% if entry.img %}
+          <img class="footer__img" src="{{ entry.img }}" alt="{{ entry.title }}">
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
