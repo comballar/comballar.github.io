@@ -2,8 +2,8 @@ $on-palm:           600px !default;
 $on-laptop:         800px !default;
 
 // typography
-@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:400,600');
-$robotomono:       'Roboto Mono', monospace;
+@import url('https://fonts.googleapis.com/css2?family=Karla&family=Work+Sans:ital,wght@0,600;1,400;1,600&display=swap');
+$font__family:      'Work Sans', sans-serif;
 $font__size:        16px;
 $font__weight:      400;
 $font__line-height: 2;
@@ -101,7 +101,7 @@ body {
   padding: 0;
   font-display: block;
   background: $color__beige;
-  font-family: $robotomono;
+  font-family: $font__family;
   font-size: $font__size;
   font-weight: $font__weight;
   line-height: $font__line-height;
