@@ -4,8 +4,7 @@ $on-laptop:         800px !default;
 // typography
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
 $font__family:      'Inter', sans-serif;
-$font__size:        15px;
-$font__weight:      300;
+$font__size:        14px;
 $font__line-height: 2;
 
 
@@ -104,7 +103,7 @@ body {
   background: $color__beige;
   font-family: $font__family;
   font-size: $font__size;
-  font-weight: $font__weight;
+  font-weight: 300;
   line-height: $font__line-height;
   color: $color__black;
 }
