@@ -2,8 +2,8 @@ $on-palm:           600px !default;
 $on-laptop:         800px !default;
 
 // typography
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap');
-$font__family:      'Inter', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=Inter:wght@300&display=swap');
+$font__family:      'IBM Plex Mono', monospace;
 $font__size:        15px;
 $font__line-height: 2;
 
@@ -18,8 +18,8 @@ $font__line-height: 2;
 }
 
 // colors
-$color__black:      #A07C5E;
-$color__gray:       #A07C5E;
+$color__black:      #73645D;
+$color__gray:       #73645D;
 $color__beige:      #EFEEE9;
 $color__yellow:     #DCDDC8;
 
