@@ -18,10 +18,10 @@ $font__line-height: 2;
 }
 
 // colors
-$color__black:      #273B61;
-$color__gray:       #273B61;
-$color__beige:      #E0C3C8;
-$color__yellow:     #F3F3F3;
+$color__black:      #698370;
+$color__gray:       #698370;
+$color__beige:      #EFEEE9;
+$color__yellow:     #DFDAB0;
 
 @mixin media-query($device) {
   @media screen and (min-width: $device) {
