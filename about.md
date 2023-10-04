@@ -16,5 +16,6 @@ permalink: /about/
 <br><a href="https://letterboxd.com/comoballar/" target="_blank">Letterboxd</a>
 <br><a href="https://comoballar.tumblr.com/" target="_blank">Tumblr</a>
 <br><a href="https://www.instagram.com/comoballar/" target="_blank">Instagram</a>
+<br><a href="https://www.twitter.com/comoballar/" target="_blank">Twitter</a>
 <br>
 <br>
