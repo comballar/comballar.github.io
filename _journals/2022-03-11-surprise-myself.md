@@ -4,7 +4,7 @@ title:  Sometimes I Surprise Myself
 author: Phoemela Ballaran
 category: List
 date: 2022-03-11
-img: https://raw.githubusercontent.com/comoballar/postdb/main/journal02/mirror.png
+img: https://raw.githubusercontent.com/comoballar/postdb/main/journal02/love.png
 ---
 <br>
 Sometimes, when there's an unusual synergy between my heart and brain, words come out of me and I surprise myself.
