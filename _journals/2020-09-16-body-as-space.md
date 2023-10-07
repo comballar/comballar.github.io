@@ -4,7 +4,7 @@ title:  Body as Space
 author: Phoemela Ballaran
 category: List
 date: 2020-09-16
-img: https://raw.githubusercontent.com/comoballar/postdb/main/journal01/01.png
+img: https://raw.githubusercontent.com/comoballar/postdb/main/journal01/06.png
 ---
 <br><br>
 <p align="center">I</p>
