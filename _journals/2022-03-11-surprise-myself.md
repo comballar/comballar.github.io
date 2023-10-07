@@ -9,7 +9,7 @@ img: https://raw.githubusercontent.com/comoballar/postdb/main/journal02/love.png
 <br>
 Sometimes, when there's an unusual synergy between my heart and brain, words come out of me and I surprise myself.
 <br><br><br>
-<p align="center">I─</p>
+<p align="center">I</p>
 <br>
 What devotion is for me: when Isis searched for and gathered the 14 pieces of Osiris' cut up body that Seth scattered over the Earth, and then—with the help of Nepthys, Thoth, and Anubis—performed a great act of magic to bring her husband back to life.<br><br>
 I think my fascination with this story explains why my love language is words of affirmation. What we speak of, how often we say them, how we say them—all are elements of spellcasting. The great act of magic is speaking life into our beloved.
