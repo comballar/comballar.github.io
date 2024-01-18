@@ -22,8 +22,7 @@ When Franz Kafka said, “I am a cage, in search of a bird.” Like a hollow bod
 <br><br>
 <p align="center"><img class="vertical" src="https://raw.githubusercontent.com/comoballar/postdb/main/journal01/03.png"/><figcaption>“The Therapist” (1937) by Rene Magritte.</figcaption></p>
 <br><br><br>
-<p align="center">IV</p>
-<br>
+<p align="center">④</p>
 As within, so without.<br><br>
 Carl Jung’s Bollingen Tower was built in 1923. The idea of it was conceived after noticing a feeling of dissatisfaction despite all the writings he produced and talks he delivered. He felt that he had “to make a confession of faith in stone”. To Jung, the tower represented the maternal hearth.<br><br>
 Four years after the first tower was built, he felt again a sense of incompleteness and decided to add a what would be the central structure. Another four years and a second tower was built. There he occupied a room where he kept to himself and allowed nobody to enter without his permission. He filled the walls of this room with his paintings—his tool of expression for things that cannot be put to words, of things that exist outside of time.<br><br>
@@ -31,14 +30,12 @@ Again, after four years, Jung was restless and desired for an open space so he a
 No further changes were made on the tower, not until his wife’s death. During that time, Jung felt, in his words, “an inner obligation to become what I myself am.” So he added an upper story to the tower’s central section (the part of the tower he associated with his ego-personality), “which crouched so low, so hidden”.<br><br>
 <p align="center"><img class="vertical" src="https://raw.githubusercontent.com/comoballar/postdb/main/journal01/04.png"/><figcaption>Carl Jung inside his tower at Bollingen, a village in Switzerland.</figcaption></p>
 <br><br><br>
-<p align="center">V</p>
-<br>
+<p align="center">⑤</p>
 Another case of outward projection of the inner landscape: In her novel “The Fountains of Neptune”, Rikki Ducornet wrote of a young boy who fell into a coma after accidentally falling off the boat into the river. His coma lasted for five decades, sleeping and dreaming through the two world wars. His waking days thereafter were spent mostly on filling the house with an expansive diorama of the dream world he lived in for years.  “As I construct my temples and towers, I am building a bridge between the boy of nine and the man of sixty. I am reclaiming territory. I am making myself a country,” he declared.
 <br><br>
 <p align="center"><img src="https://raw.githubusercontent.com/comoballar/postdb/main/journal01/05.png"/><figcaption>Vishnu dreaming the universe into existence.</figcaption></p>
 <br><br><br>
-<p align="center">VI</p>
-<br>
+<p align="center">⑥</p>
 Saint Paul wrote, as if in lament: “Do you not know that your bodies are temples of the Holy Spirit, who is in you, who you have received from God?” There is no need to search outside of myself, I can meet my god in the cathedral of my own flesh.
 <br><br>
 <p align="center"><img src="https://raw.githubusercontent.com/comoballar/postdb/main/journal01/06.png"/><figcaption>Photo collage I made back in 2017.</figcaption></p>
