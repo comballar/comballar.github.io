@@ -19,7 +19,7 @@ Rachel Cusk on the parallel between the body and the spaces we nest in, from her
 <br><br>
 <p align="center"><img src="https://raw.githubusercontent.com/comoballar/postdb/main/journal01/02.png"/><figcaption>From "Meshes of the Afternoon" (1943).</figcaption></p>
 <br><br><br>
-<p align="center">─III</p>
+<p align="center">③</p>
 <br>
 When Franz Kafka said, “I am a cage, in search of a bird.” Like a hollow body, in search of a soul.
 <br><br>
