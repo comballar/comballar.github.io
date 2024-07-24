@@ -15,5 +15,6 @@ permalink: /about/
 <br><a href="https://are.na/como-ballar" target="_blank">Are.na</a>
 <br><a href="https://comoballar.tumblr.com/" target="_blank">Tumblr</a>
 <br><a href="https://www.instagram.com/comoballar/" target="_blank">Instagram</a>
-<br>
-<br><i>Tell me your secrets and ask me your questions: comoballar444@gmail.com</i>
+<br><br>
+<br><i>Tell me your secrets and ask me your questions:</i>
+<br><i>comoballar444@gmail.com</i>
