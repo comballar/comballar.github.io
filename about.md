@@ -16,5 +16,3 @@ permalink: /about/
 <br><a href="https://comballar.tumblr.com/" target="_blank">Tumblr</a>
 <br><a href="https://www.instagram.com/com.ballar/" target="_blank">Instagram</a>
 <br><br>
-<br><i>Tell me your secrets and ask me your questions:</i>
-<br><i>comoballar444@gmail.com</i>
