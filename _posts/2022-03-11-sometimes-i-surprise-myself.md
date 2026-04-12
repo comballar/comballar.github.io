@@ -4,7 +4,7 @@ title:  Sometimes I Surprise Myself
 author: Phoemela Ballaran
 category: Personal
 date: 2022-03-11
-img: https://images.unsplash.com/photo-1473655551229-a39d1a982885?dpr=1&auto=format&fit=crop&w=1500&h=998&q=80&cs=tinysrgb&crop=
+img: https://raw.githubusercontent.com/comoballar/postdb/main/journal02/mirror.png
 ---
 
 <br>
