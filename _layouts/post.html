@@ -4,13 +4,8 @@
 
   <body>
     <div class="container">
+      {% include header_title.html uid="https://comballar.github.io/journal/" %}
       <div class="post">
-        <div class="bio__header">
-          <a href="{{ site.url }}{{ "/" | relative_url }}">
-            {{ site.header }}
-          </a>
-        </div>
-
         <div class="post__meta">
           <div class="post__title">{{ page.title }}</div>
           <div class="post__date">
@@ -40,7 +35,7 @@
         {% endif %}
       </div>
 
-      {% include posts_list.html uid=page.id %}
+      {% include footer_list.html uid=page.id %}
     </div>
   </body>
 
