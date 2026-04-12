@@ -36,7 +36,7 @@
               {{ post.date | date: "%b %-d, %Y" }}
             {% endif %}
           </div>
-          <div class="row__cat {% if include.uid == entry.id %}row__active{% endif %}">
+          <div class="row__cat {% if include.uid == post.id %}row__active{% endif %}">
             {{ post.category }}
           </div>
         </a>
