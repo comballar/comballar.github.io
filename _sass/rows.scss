@@ -12,7 +12,7 @@
   position: absolute;
   max-width: 500px;
   max-height: 500px;
-  top: random(250) - random(250) + px;
+  top: random(500) - random(500) + px;
   left: random(500) + px;
   z-index: -1;
   opacity: 0;
@@ -26,8 +26,12 @@
 }
 
 .row__cols {
-  font-weight: 700;
+  font-weight: 500;
   overflow: hidden;
+  font-size: 14px;
+  text-transform: uppercase;
+  padding-bottom: 10px;
+  color: $color__black;
 }
 
 .row__post {
@@ -39,6 +43,7 @@
 .row__date,
 .row__cat {
   float: left;
+  color: $color__black;
 }
 
 .row__title {
@@ -75,12 +80,14 @@
   .row__post {
       &:hover {
       * {
-        text-decoration: underline;
+        text-style: italic;
         cursor: pointer;
+        color: $color__black;
       }
 
       .row__active {
         text-decoration: line-through;
+        color: $color__black;
       }
 
       .row__img {
