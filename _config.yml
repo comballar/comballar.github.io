@@ -1,12 +1,12 @@
 # site
-title: Louie
+title: com ballar
 baseurl: "/louie"
-url: "http://lily.work"
+url: "http://comballar.github.io"
 favicon: "/assets/sample/ico.png"
 g_analytics: UA-12345678-1
 
 # bio
-header: Louie
+header: com ballar
 desc: >
   A Jekyll theme (that looks awesome). Louie is free, lightweight,
   and customizable as a blog, archive, or portfolio.
