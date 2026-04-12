@@ -4,7 +4,7 @@ title:  Body as Space
 author: August Remier
 category: Notes on a theme
 date: 2020-09-16
-img: https://images.unsplash.com/photo-1465424365847-61f79d8b6435?dpr=2&auto=format&fit=crop&w=1500&h=2250&q=80&cs=tinysrgb&crop=
+img: https://raw.githubusercontent.com/comoballar/postdb/main/journal01/06.png
 ---
 
 <br><br>
