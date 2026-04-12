@@ -3,7 +3,7 @@ layout: post
 title:  Sometimes I Surprise Myself
 author: Phoemela Ballaran
 category: Personal
-date: 2022-03-11
+date: 11 Mar 2022
 img: https://raw.githubusercontent.com/comoballar/postdb/main/journal02/mirror.png
 ---
 
