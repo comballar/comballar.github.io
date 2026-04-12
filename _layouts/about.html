@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  {% include head.html %}
+
+  <body>
+    <div class="container">
+      {% include header_title.html uid="https://comballar.github.io/about/" %}
+      <div class="post">
+
+        <div class="about__body">
+          {{ content }}
+        </div>
+      </div>
+      
+      <br><br><a  href="https://comballar.github.io">Back to home page</a>
+      <br><br><br><br>
+    </div>
+  </body>
+</html>
