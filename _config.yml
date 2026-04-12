@@ -7,7 +7,7 @@ g_analytics: UA-12345678-1
 # bio
 header: com ballar
 desc: >
-  cultivating a lush inner/outer world.
+  cultivating a lush inner/outer world. <a href="https://comballar.github.io/about/">more about me »</a>
 
 # posts
 date_format: "%d %B %Y"
