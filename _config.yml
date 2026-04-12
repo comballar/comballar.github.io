@@ -10,7 +10,7 @@ desc: >
   cultivating a lush inner/outer world. <a href="https://comballar.github.io/about/">more about me »</a>
 
 # posts
-date_format: "DD MMM YYYY"
+date_format: "%d %b %Y"
 post_title: Story
 post_date: Date
 post_cat: Category
