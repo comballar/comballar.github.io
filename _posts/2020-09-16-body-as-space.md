@@ -3,7 +3,7 @@ layout: post
 title:  Body as Space
 author: August Remier
 category: Notes on a theme
-date: 2020-09-16
+date: 16 Sep 2020
 img: https://raw.githubusercontent.com/comoballar/postdb/main/journal01/06.png
 ---
 
