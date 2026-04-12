@@ -2,17 +2,26 @@ $on-palm:           600px !default;
 $on-laptop:         800px !default;
 
 // typography
-@import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700');
-$inconsolata:       'Inconsolata', monospace;
-$font__size:        14px;
-$font__weight:      400;
-$font__line-height: 1.5;
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,600;1,400;1,600&display=swap');
+$font__family:      'IBM Plex Mono', monospace;
+$font__size:        15px;
+$font__line-height: 1.75;
+
+
+@font-face {
+    font-family: 'Cardinal Fruit';
+    src: url('https://comballar.github.io/assets/fonts/CardinalFruit-MediumItalic.woff2') format('woff2'),
+        url('https://comballar.github.io/assets/fonts/CardinalFruit-MediumItalic.woff') format('woff'),
+        url('https://comballar.github.io/assets/fonts/CardinalFruit-MediumItalic.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
 
 // colors
-$color__black:      #000000;
-$color__gray:       #eeeeee;
-$color__beige:      #f8f8f1;
-$color__yellow:     #fefeca;
+$color__black:      #222222;
+$color__gray:       #CCD3D5;
+$color__beige:      #B3BFBF;
+$color__yellow:     #FAF7F2;
 
 @mixin media-query($device) {
   @media screen and (min-width: $device) {
