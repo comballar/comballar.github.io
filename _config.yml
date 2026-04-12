@@ -10,10 +10,10 @@ desc: >
   cultivating a lush inner/outer world.
 
 # posts
-date_format: "%Y"
+date_format: "%d %B %Y"
 post_title: Story
-post_date: Year
-post_cat: Genre
+post_date: Date
+post_cat: Category
 
 # post detail
 prev-next: true
