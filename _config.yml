@@ -11,7 +11,7 @@ desc: >
 
 # posts
 date_format: "%d %b %Y"
-post_title: Story
+post_title: Title
 post_date: Date
 post_cat: Category
 
