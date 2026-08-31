@@ -3,6 +3,11 @@ $on-laptop:         800px !default;
 
 // typography
 
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wdth,wght@0,97,400..700;1,97,400..700&display=swap');
+$font__family:      'Instrument Sans', sans-serif;
+$font__size:        15px;
+$font__line-height: 1.75;
+
 @font-face {
     font-family: 'Cardinal Fruit';
     src: url('https://comballar.github.io/assets/fonts/CardinalFruit-MediumItalic.woff2') format('woff2'),
@@ -12,51 +17,6 @@ $on-laptop:         800px !default;
     font-weight: normal;
 }
 
-@font-face {
-    font-family: 'Helvetica Neue';
-    src: url('https://comballar.github.io/assets/fonts/helvetica neue/HelveticaNeue.ttf') format('truetype');
-    font-style: normal;
-    font-weight: normal;
-}
-
-@font-face {
-    font-family: 'Helvetica Neue';
-    src: url('https://comballar.github.io/assets/fonts/helvetica neue/HelveticaNeue-Italic.ttf') format('truetype');
-    font-style: italic;
-    font-weight: normal;
-}
-
-@font-face {
-    font-family: 'Helvetica Neue';
-    src: url('https://comballar.github.io/assets/fonts/helvetica neue/HelveticaNeue-Bold.ttf') format('truetype');
-    font-style: normal;
-    font-weight: bold;
-}
-
-@font-face {
-    font-family: 'Helvetica Neue';
-    src: url('https://comballar.github.io/assets/fonts/helvetica neue/HelveticaNeue-BoldItalic.ttf') format('truetype');
-    font-style: italic;
-    font-weight: bold;
-}
-
-@font-face {
-    font-family: 'Helvetica Neue';
-    src: url('https://comballar.github.io/assets/fonts/helvetica neue/HelveticaNeue-Light.ttf') format('truetype');
-    font-style: normal;
-    font-weight: light;
-}
-
-@font-face {
-    font-family: 'Helvetica Neue';
-    src: url('https://comballar.github.io/assets/fonts/helvetica neue/HelveticaNeue-LightItalic.ttf') format('truetype');
-    font-style: italic;
-    font-weight: light;
-}
-
-$font__family:      'Helvetica Neue', sans-serif;
-$font__size:        15px;
-$font__line-height: 1.75;
 
 // colors
 $color__black:      #404F63;
