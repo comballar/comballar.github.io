@@ -2,10 +2,9 @@ $on-palm:           600px !default;
 $on-laptop:         800px !default;
 
 // typography
-
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wdth,wght@0,97,400..700;1,97,400..700&display=swap');
-$font__family: 'IBM Plex Mono', monospace;
-$font__size: 15px;
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,600;1,400;1,600&display=swap');
+$font__family:      'IBM Plex Mono', monospace;
+$font__size:        15px;
 $font__line-height: 1.75;
 
 @font-face {
