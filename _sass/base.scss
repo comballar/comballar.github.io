@@ -18,10 +18,10 @@ $font__line-height: 1.75;
 
 
 // colors
-$color__black:      #2A4976;
-$color__gray:       #CCD3D5;
+$color__black:      #0D3C60;
+$color__gray:       #7E8D91;
 $color__beige:      #E8E8E6;
-$color__yellow:     #FAF7F2;
+$color__yellow:     #DFDCD1;
 
 @mixin media-query($device) {
   @media screen and (min-width: $device) {
