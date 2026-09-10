@@ -1,6 +1,6 @@
 ---
 layout: about
-title:  hello there
+title:  Hello there
 permalink: /about/
 ---
 <h1>“Does it dance? Does it catalyze a joyful affirmation of life?” — Friedrich Nietzsche</h1>
