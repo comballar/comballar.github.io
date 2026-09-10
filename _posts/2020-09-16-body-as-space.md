@@ -4,7 +4,7 @@ title:  Body as Space
 date: 2020-09-16
 author: August Remier
 category: Notes on a theme
-img: https://raw.githubusercontent.com/comoballar/postdb/main/journal01/03.png
+img: https://raw.githubusercontent.com/comballar/postdb/refs/heads/main/journal01/03.png
 ---
 <br>
 <p>
@@ -40,6 +40,6 @@ No further changes were made on the tower, not until his wife’s death. During 
 <p>
   6.  Saint Paul wrote, as if in lament: “Do you not know that your bodies are temples of the Holy Spirit, who is in you, who you have received from God?”
 </p>
-<p>There is no need to search outside of myself, I can meet my god in the cathedral of my own flesh.
+<p>There is no need to search outside of myself. I can meet my god in the cathedral of my own flesh.
 </p>
 <br>
